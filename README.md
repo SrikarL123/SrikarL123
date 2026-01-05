@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Srikar Lokai
 
 🎓 Engineering student | 📊 Data Analyst | 🧠 AI Enthusiast| 🏷️ AI & Data Annotator | ✍️ Fiction Writer  
-Passionate about turning data into insights and stories into impact and automation!
+Passionate about automation and turning data into insights and stories into impact!
 
 ---
 
