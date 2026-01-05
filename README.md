@@ -55,7 +55,6 @@ Passionate about turning data into insights and stories into impact.
 
 - [LinkedIn](https://www.linkedin.com/in/srikar-lokai/)
 - [Portfolio Website](https://srikarl123.github.io/)
-- [Wattpad (Fiction)](https://www.wattpad.com/user/sriwrts)
 - 📧 srikar0912@gmail.com
 
 ### 📖 Feel free to check out my Wattpad
